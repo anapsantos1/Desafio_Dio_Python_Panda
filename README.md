@@ -18,4 +18,4 @@
 
 Notebook:
 
-- [Analise - planilhas](https://www.linkedin.com/in/simaraconceicao/)
+- [Analise - planilhas](https://github.com/anapsantos1/Desafio_Dio_Python_Panda/blob/main/Analise%20-%20planilhas.ipynb)
