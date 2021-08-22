@@ -16,12 +16,6 @@
 6. Visualização de dados
 7. Análise Exploratória de dados
 
-
-
-Graficos:
-
-
-
 Notebook:
 
 - [Analise - planilhas](https://www.linkedin.com/in/simaraconceicao/)
